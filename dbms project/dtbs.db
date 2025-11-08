@@ -1,0 +1,6 @@
+CREATE TABLE employees (
+    id INT(11) AUTO_INCREMENT PRIMARY KEY ,
+    empid VARCHAR(50),
+    name VARCHAR(100),
+    age VARCHAR(2)
+);
